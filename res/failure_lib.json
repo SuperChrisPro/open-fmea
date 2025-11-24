@@ -1,0 +1,217 @@
+{
+  "Part Assembly": [
+    {
+      "failure_mode": "Missing Part",
+      "effects": [
+        "Incomplete product",
+        "Functional failure",
+        "Safety hazard"
+      ],
+      "causes": [
+        "Operator forgetfulness",
+        "Inadequate poka-yoke",
+        "Poor work instruction"
+      ],
+      "controls": [
+        "Part presence sensors",
+        "Checklists",
+        "Visual aids"
+      ],
+      "actions": [
+        "Implement part sensors",
+        "Improve training",
+        "Add visual indicators"
+      ]
+    },
+    {
+      "failure_mode": "Wrong Part",
+      "effects": [
+        "Functional failure",
+        "Performance issues",
+        "Rework required"
+      ],
+      "causes": [
+        "Similar parts confusion",
+        "Inadequate labeling",
+        "Operator error"
+      ],
+      "controls": [
+        "Part identification labels",
+        "Barcode scanning",
+        "First-article inspection"
+      ],
+      "actions": [
+        "Improve part labeling",
+        "Implement barcode verification",
+        "Enhance operator training"
+      ]
+    },
+    {
+      "failure_mode": "Reversed Part",
+      "effects": [
+        "Functional failure",
+        "Assembly interference",
+        "Performance issues"
+      ],
+      "causes": [
+        "Asymmetric parts",
+        "Inadequate work instruction",
+        "Operator error"
+      ],
+      "controls": [
+        "Orientation guides",
+        "Poka-yoke fixtures",
+        "Visual aids"
+      ],
+      "actions": [
+        "Design orientation aids",
+        "Implement poka-yoke devices",
+        "Improve work instructions"
+      ]
+    },
+    {
+      "failure_mode": "Part Damage",
+      "effects": [
+        "Functional failure",
+        "Safety hazard",
+        "Performance degradation"
+      ],
+      "causes": [
+        "Improper handling",
+        "Inadequate packaging",
+        "Tool misuse"
+      ],
+      "controls": [
+        "Proper handling procedures",
+        "Protective packaging",
+        "Tooling design"
+      ],
+      "actions": [
+        "Improve handling training",
+        "Enhance packaging",
+        "Review tooling design"
+      ]
+    }
+  ],
+  "Bolt Fastening": [
+    {
+      "failure_mode": "Insufficient Torque",
+      "effects": [
+        "Loose joint",
+        "Vibration-induced failure",
+        "Safety hazard"
+      ],
+      "causes": [
+        "Incorrect torque setting",
+        "Tool calibration issue",
+        "Operator error"
+      ],
+      "controls": [
+        "Torque-controlled tools",
+        "Regular calibration",
+        "Torque monitoring"
+      ],
+      "actions": [
+        "Implement torque monitoring",
+        "Improve calibration program",
+        "Enhance operator training"
+      ]
+    },
+    {
+      "failure_mode": "Over Torque",
+      "effects": [
+        "Thread damage",
+        "Component cracking",
+        "Fastener failure"
+      ],
+      "causes": [
+        "Incorrect torque setting",
+        "Tool malfunction",
+        "Lack of monitoring"
+      ],
+      "controls": [
+        "Torque limits",
+        "Tool maintenance",
+        "Process monitoring"
+      ],
+      "actions": [
+        "Set torque limits",
+        "Improve tool maintenance",
+        "Add process monitoring"
+      ]
+    },
+    {
+      "failure_mode": "Missing Fastener",
+      "effects": [
+        "Joint integrity compromised",
+        "Vibration issues",
+        "Safety hazard"
+      ],
+      "causes": [
+        "Operator forgetfulness",
+        "Inadequate poka-yoke",
+        "Poor work sequence"
+      ],
+      "controls": [
+        "Fastener tracking",
+        "Poka-yoke devices",
+        "Final inspection"
+      ],
+      "actions": [
+        "Implement fastener tracking",
+        "Add poka-yoke solutions",
+        "Improve inspection methods"
+      ]
+    }
+  ],
+  "Press-fit/Riveting": [
+    {
+      "failure_mode": "Insufficient Press-fit Force",
+      "effects": [
+        "Loose fit",
+        "Functional failure",
+        "Vibration issues"
+      ],
+      "causes": [
+        "Incorrect force setting",
+        "Equipment calibration",
+        "Material variation"
+      ],
+      "controls": [
+        "Force monitoring",
+        "Calibration program",
+        "Material inspection"
+      ],
+      "actions": [
+        "Implement force monitoring",
+        "Improve calibration",
+        "Add material inspection"
+      ]
+    }
+  ],
+  "Inspection/Debugging": [
+    {
+      "failure_mode": "Missing Critical Dimension Inspection",
+      "effects": [
+        "Defective product escape",
+        "Customer complaints",
+        "Safety issues"
+      ],
+      "causes": [
+        "Inadequate inspection plan",
+        "Operator error",
+        "Time pressure"
+      ],
+      "controls": [
+        "Inspection checklist",
+        "Automated inspection",
+        "First-article verification"
+      ],
+      "actions": [
+        "Improve inspection planning",
+        "Implement automated inspection",
+        "Strengthen quality culture"
+      ]
+    }
+  ]
+}
