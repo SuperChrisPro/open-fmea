@@ -411,3 +411,30 @@ FMEA Application initialized
 2025-11-21 07:48:25,690 - info - INFO - Insert Table function called
 2025-11-21 07:48:31,257 - info - INFO - Open Help function called
 2025-11-21 07:48:34,727 - info - INFO - Show About function called
+Application started
+2025-12-11 07:56:22,806 - app - INFO - Application started
+2025-12-11 07:56:22,807 - error - ERROR - This is an error message
+2025-12-11 07:56:22,808 - warning - WARNING - This is a warning message
+2025-12-11 07:56:22,808 - info - INFO - This is an informational message
+2025-12-11 07:56:22,809 - debug - DEBUG - This is a debug message
+2025-12-11 07:56:22,967 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-12-11 07:56:22,968 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2025-12-11 07:56:22,968 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 62 989
+2025-12-11 07:56:23,005 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-12-11 07:56:23,006 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2025-12-11 07:56:23,007 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 62 159
+2025-12-11 07:56:23,009 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-12-11 07:56:23,010 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2025-12-11 07:56:23,011 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 62 1141
+2025-12-11 07:56:23,013 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-12-11 07:56:23,014 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2025-12-11 07:56:23,015 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 62 405
+2025-12-11 07:56:23,017 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-12-11 07:56:23,017 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2025-12-11 07:56:23,018 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 62 324
+2025-12-11 07:56:23,020 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-12-11 07:56:23,021 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2025-12-11 07:56:23,022 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 62 347
+2025-12-11 07:56:23,051 - info - INFO - Database initialized
+FMEA Application initialized
+2025-12-11 07:56:23,053 - app - INFO - FMEA Application initialized

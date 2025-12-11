@@ -2,3 +2,5 @@ pillow
 pandas
 numpy
 openpyxl
+kivy
+kivymd
